@@ -37,8 +37,8 @@ plt.show()
 
 ```
 ## Output
-![image](https://github.com/Supraja0510/Univariate-Linear-Regression/assets/155217478/6c89ae94-88ba-4507-b49f-697417a58e68)
-![image](https://github.com/Supraja0510/Univariate-Linear-Regression/assets/155217478/aff6ea8c-ba96-4fd7-9168-152fb6a0fc44)
+![image](https://github.com/Supraja0510/Univariate-Linear-Regression/assets/155217478/a7b6c78f-f466-498f-b8e8-53192f75ddaf)
+![image](https://github.com/Supraja0510/Univariate-Linear-Regression/assets/155217478/5098a338-f9e7-4603-a68d-571ad7e2d5af)
 
 
 ## Result
